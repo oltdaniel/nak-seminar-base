@@ -1,3 +1,3 @@
 # NAK Git Seminar
 
-Das hier ist eine bloede Beschreibung.
+Das hier ist eine super bloede Beschreibung.
